@@ -1,7 +1,8 @@
 # Chpater 2
-> "Chpater 1 data." -Yogesh
+### ToDo list for GIT
+- [ ] 'git init'
+- [ ] 'gedit readme.md'
+- [ ] 'git add .'
 
-~~~pyton
-$git init 2
-~~~
-
+### end of chapter 2
+lets move to [chapter 3](../chapter3)
