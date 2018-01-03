@@ -8,3 +8,5 @@
 * [Chapter3](chapter3) 
 ### license
 this is released under creative commons
+
+![alt text](https://upload.wikimedia.org/wikipedia/en/9/97/DBIT_logo.png "Logo Title Text 1")
